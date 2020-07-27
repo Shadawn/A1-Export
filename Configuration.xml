@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.8">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.10">
 	<Configuration uuid="54759bd5-d4e4-4998-bd26-0e8d96a2555a">
 		<InternalInfo>
 			<xr:ContainedObject>
@@ -9,6 +9,10 @@
 			<xr:ContainedObject>
 				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
 				<xr:ObjectId>d9025dd2-cf1e-4df8-9c72-0296cf0e8f0e</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
+				<xr:ObjectId>27e9d636-4e3a-4957-af39-5b3bb27aab0d</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
@@ -23,8 +27,8 @@
 				<xr:ObjectId>60a01492-1556-49c3-bf51-772ef664343a</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
-				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>27e9d636-4e3a-4957-af39-5b3bb27aab0d</xr:ObjectId>
+				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
+				<xr:ObjectId>d1eaa4d6-df4c-48d3-951b-fe1f5c96ea1c</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -38,6 +42,7 @@
 			<Comment>Экспортный модуль коллектива А1</Comment>
 			<ConfigurationExtensionPurpose>Customization</ConfigurationExtensionPurpose>
 			<ObjectBelonging>Adopted</ObjectBelonging>
+			<KeepMappingToExtendedConfigurationObjectsByIDs>false</KeepMappingToExtendedConfigurationObjectsByIDs>
 			<NamePrefix>А1Э_</NamePrefix>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_12</ConfigurationExtensionCompatibilityMode>
 			<DefaultRunMode>ManagedApplication</DefaultRunMode>
@@ -46,44 +51,60 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>10.07.2019</Version>
-			<DefaultLanguage>Language.Русский</DefaultLanguage>
+			<Version>1.5.3 - 2020-07-25</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
-			<Copyright/>
+			<Copyright>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>MIT</v8:content>
+				</v8:item>
+			</Copyright>
 			<VendorInformationAddress/>
 			<ConfigurationInformationAddress/>
 		</Properties>
 		<ChildObjects>
-			<Language>Русский</Language>
-			<CommonPicture>А1Э_23Февраля</CommonPicture>
+			<CommonModule>А1Э_А1СписокМеханизмов</CommonModule>
 			<CommonModule>А1Э_БСП</CommonModule>
 			<CommonModule>А1Э_БСПСервер</CommonModule>
+			<CommonModule>А1Э_Веб</CommonModule>
 			<CommonModule>А1Э_Ворд</CommonModule>
 			<CommonModule>А1Э_ГлобальныйКонтекст</CommonModule>
 			<CommonModule>А1Э_Даты</CommonModule>
 			<CommonModule>А1Э_Документы</CommonModule>
 			<CommonModule>А1Э_ДопРеквизиты</CommonModule>
 			<CommonModule>А1Э_Запросы</CommonModule>
+			<CommonModule>А1Э_Иерархии</CommonModule>
+			<CommonModule>А1Э_ИзменениеОбъектов</CommonModule>
 			<CommonModule>А1Э_Классы</CommonModule>
+			<CommonModule>А1Э_Коннектор</CommonModule>
 			<CommonModule>А1Э_Конфигуратор</CommonModule>
 			<CommonModule>А1Э_Массивы</CommonModule>
 			<CommonModule>А1Э_Метаданные</CommonModule>
+			<CommonModule>А1Э_Механизмы</CommonModule>
+			<CommonModule>А1Э_МеханизмыОбъектов</CommonModule>
+			<CommonModule>А1Э_МеханизмыФорм</CommonModule>
+			<CommonModule>А1Э_НастройкиСистемы</CommonModule>
+			<CommonModule>А1Э_ОбновлениеРасширений</CommonModule>
 			<CommonModule>А1Э_Общее</CommonModule>
 			<CommonModule>А1Э_ОбщееКлиент</CommonModule>
 			<CommonModule>А1Э_ОбщееСервер</CommonModule>
+			<CommonModule>А1Э_Объекты</CommonModule>
 			<CommonModule>А1Э_ОграниченияДоступа</CommonModule>
-			<CommonModule>А1Э_ООП</CommonModule>
-			<CommonModule>А1Э_ООП_БСП</CommonModule>
+			<CommonModule>А1Э_ПараметрыСеанса</CommonModule>
+			<CommonModule>А1Э_Переопределение</CommonModule>
 			<CommonModule>А1Э_Перечисления</CommonModule>
 			<CommonModule>А1Э_ПериодическиеРеквизиты</CommonModule>
 			<CommonModule>А1Э_Печать</CommonModule>
 			<CommonModule>А1Э_ПовторноеИспользование</CommonModule>
 			<CommonModule>А1Э_Подключение1С</CommonModule>
+			<CommonModule>А1Э_Пользователи</CommonModule>
 			<CommonModule>А1Э_Предопределенные</CommonModule>
 			<CommonModule>А1Э_ПроверкиСистемы</CommonModule>
+			<CommonModule>А1Э_Расширения</CommonModule>
 			<CommonModule>А1Э_РегистрыСведений</CommonModule>
 			<CommonModule>А1Э_РезультатыФункций</CommonModule>
+			<CommonModule>А1Э_СерверныеВызовы</CommonModule>
 			<CommonModule>А1Э_Сериализация</CommonModule>
 			<CommonModule>А1Э_СКД</CommonModule>
 			<CommonModule>А1Э_Служебный</CommonModule>
@@ -93,15 +114,17 @@
 			<CommonModule>А1Э_Структуры</CommonModule>
 			<CommonModule>А1Э_ТаблицыЗначений</CommonModule>
 			<CommonModule>А1Э_ТабличныеДокументы</CommonModule>
+			<CommonModule>А1Э_Тестирование</CommonModule>
 			<CommonModule>А1Э_УниверсальнаяФорма</CommonModule>
-			<CommonModule>А1Э_ФайловаяСистема</CommonModule>
+			<CommonModule>А1Э_УниверсальныйАПИ</CommonModule>
+			<CommonModule>А1Э_Файлы</CommonModule>
 			<CommonModule>А1Э_ФорматированныйДокумент</CommonModule>
 			<CommonModule>А1Э_Формы</CommonModule>
 			<CommonModule>А1Э_Числа</CommonModule>
 			<CommonModule>А1Э_Эксель</CommonModule>
-			<CommonForm>А1Э_ПоздравлениеПользователей</CommonForm>
-			<CommonForm>А1Э_Форма</CommonForm>
+			<HTTPService>А1Э_УниверсальныйАПИ</HTTPService>
 			<CommonForm>А1Э_УниверсальнаяФорма</CommonForm>
+			<DataProcessor>А1Э_МеханизмыГенерацияКода</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

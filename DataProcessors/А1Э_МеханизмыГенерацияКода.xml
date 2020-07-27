@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.10">
+	<DataProcessor uuid="0e888055-5221-47de-98b1-3661995c9bb8">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.А1Э_МеханизмыГенерацияКода" category="Object">
+				<xr:TypeId>a174ad89-e5b3-466c-9906-0320abcb37d9</xr:TypeId>
+				<xr:ValueId>d879705c-e7b9-447b-8ec4-20541a25eb0c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.А1Э_МеханизмыГенерацияКода" category="Manager">
+				<xr:TypeId>6dd34fcf-4d05-46de-b670-e555a487e9e0</xr:TypeId>
+				<xr:ValueId>c0aa33bf-7b4c-4511-bd7a-49351c88e525</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>А1Э_МеханизмыГенерацияКода</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>А1 э механизмы генерация кода</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang/>
+					<v8:content>А1 э механизмы генерация кода</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<DefaultForm/>
+			<AuxiliaryForm/>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ExtendedPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Template>ВыгрузкаХМЛ_КорневойДокумент</Template>
+			<Template>ВыгрузкаХМЛ_ОбъектМетаданных</Template>
+			<Template>ВыгрузкаХМЛ_ОписаниеФормы</Template>
+			<Template>ВыгрузкаХМЛ_Форма</Template>
+			<Template>Конфигурация__ДокументМодульОбъекта</Template>
+			<Template>Конфигурация__МодульФормы</Template>
+			<Template>Конфигурация__СправочникМодульОбъекта</Template>
+			<Template>Расширение__МодульОбъектаДокумент</Template>
+			<Template>Расширение__МодульОбъектаСправочник</Template>
+			<Template>Расширение__МодульФормы</Template>
+		</ChildObjects>
+	</DataProcessor>
+</MetaDataObject>

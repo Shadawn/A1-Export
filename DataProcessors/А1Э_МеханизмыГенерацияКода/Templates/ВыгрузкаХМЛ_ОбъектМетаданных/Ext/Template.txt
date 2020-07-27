@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.10">
+	<{Замена_Тип} uuid="{Замена_УИД1}">
+		<InternalInfo>
+			<xr:GeneratedType name="{Замена_Тип}Object.{Замена_Имя}" category="Object">
+				<xr:TypeId>{Замена_УИД2}</xr:TypeId>
+				<xr:ValueId>{Замена_УИД3}</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="{Замена_Тип}Ref.{Замена_Имя}" category="Ref">
+				<xr:TypeId>{Замена_УИД4}</xr:TypeId>
+				<xr:ValueId>{Замена_УИД5}</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="{Замена_Тип}Selection.{Замена_Имя}" category="Selection">
+				<xr:TypeId>{Замена_УИД6}</xr:TypeId>
+				<xr:ValueId>{Замена_УИД7}</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="{Замена_Тип}List.{Замена_Имя}" category="List">
+				<xr:TypeId>{Замена_УИД8}</xr:TypeId>
+				<xr:ValueId>{Замена_УИД9}</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="{Замена_Тип}Manager.{Замена_Имя}" category="Manager">
+				<xr:TypeId>{Замена_УИД10}</xr:TypeId>
+				<xr:ValueId>{Замена_УИД11}</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>{Замена_Имя}</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+		</ChildObjects>
+	</{Замена_Тип}>
+</MetaDataObject>
