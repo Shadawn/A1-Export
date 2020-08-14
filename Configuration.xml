@@ -51,7 +51,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>1.5.3 - 2020-07-25</Version>
+			<Version>1.5.6 - 2020-08-14</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright>
@@ -66,7 +66,6 @@
 		<ChildObjects>
 			<CommonModule>А1Э_А1СписокМеханизмов</CommonModule>
 			<CommonModule>А1Э_БСП</CommonModule>
-			<CommonModule>А1Э_БСПСервер</CommonModule>
 			<CommonModule>А1Э_Веб</CommonModule>
 			<CommonModule>А1Э_Ворд</CommonModule>
 			<CommonModule>А1Э_ГлобальныйКонтекст</CommonModule>
@@ -92,7 +91,6 @@
 			<CommonModule>А1Э_Объекты</CommonModule>
 			<CommonModule>А1Э_ОграниченияДоступа</CommonModule>
 			<CommonModule>А1Э_ПараметрыСеанса</CommonModule>
-			<CommonModule>А1Э_Переопределение</CommonModule>
 			<CommonModule>А1Э_Перечисления</CommonModule>
 			<CommonModule>А1Э_ПериодическиеРеквизиты</CommonModule>
 			<CommonModule>А1Э_Печать</CommonModule>
@@ -123,6 +121,7 @@
 			<CommonModule>А1Э_Числа</CommonModule>
 			<CommonModule>А1Э_Эксель</CommonModule>
 			<HTTPService>А1Э_УниверсальныйАПИ</HTTPService>
+			<CommonForm>А1Э_ПоздравлениеПользователей</CommonForm>
 			<CommonForm>А1Э_УниверсальнаяФорма</CommonForm>
 			<DataProcessor>А1Э_МеханизмыГенерацияКода</DataProcessor>
 		</ChildObjects>
