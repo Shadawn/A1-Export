@@ -51,7 +51,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>1.5.6 - 2020-08-25</Version>
+			<Version>1.5.6 - 2020-08-31</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright>
@@ -101,6 +101,7 @@
 			<CommonModule>А1Э_Предопределенные</CommonModule>
 			<CommonModule>А1Э_ПроверкиСистемы</CommonModule>
 			<CommonModule>А1Э_Расширения</CommonModule>
+			<CommonModule>А1Э_РегистрыБухгалтерии</CommonModule>
 			<CommonModule>А1Э_РегистрыСведений</CommonModule>
 			<CommonModule>А1Э_РезультатыФункций</CommonModule>
 			<CommonModule>А1Э_СерверныеВызовы</CommonModule>
