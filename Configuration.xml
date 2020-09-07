@@ -11,10 +11,6 @@
 				<xr:ObjectId>d9025dd2-cf1e-4df8-9c72-0296cf0e8f0e</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
-				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>27e9d636-4e3a-4957-af39-5b3bb27aab0d</xr:ObjectId>
-			</xr:ContainedObject>
-			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
 				<xr:ObjectId>a4f0c745-a17f-4537-8e94-50164f854b58</xr:ObjectId>
 			</xr:ContainedObject>
@@ -25,6 +21,10 @@
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
 				<xr:ObjectId>60a01492-1556-49c3-bf51-772ef664343a</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
+				<xr:ObjectId>27e9d636-4e3a-4957-af39-5b3bb27aab0d</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
@@ -51,7 +51,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>1.5.6 - 2020-08-31</Version>
+			<Version>1.6.0 - 2020-09-07</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright>
