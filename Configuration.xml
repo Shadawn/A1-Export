@@ -50,8 +50,9 @@
 				<v8:Value xsi:type="app:ApplicationUsePurpose">PlatformApplication</v8:Value>
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
+			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>1.6.6 - 2020-10-15</Version>
+			<Version>1.7.0 - 2020-10-26</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright>
@@ -124,8 +125,8 @@
 			<CommonModule>А1Э_Числа</CommonModule>
 			<CommonModule>А1Э_Эксель</CommonModule>
 			<HTTPService>А1Э_УниверсальныйАПИ</HTTPService>
-			<CommonForm>А1Э_УниверсальнаяФорма</CommonForm>
 			<DataProcessor>А1Э_МеханизмыГенерацияКода</DataProcessor>
+			<DataProcessor>А1Э_Формы</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
