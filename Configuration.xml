@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>1.7.0 - 2020-10-26</Version>
+			<Version>1.7.2 - 2020-11-03</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright>
@@ -74,6 +74,7 @@
 			<CommonModule>А1Э_Даты</CommonModule>
 			<CommonModule>А1Э_Документы</CommonModule>
 			<CommonModule>А1Э_ДопРеквизиты</CommonModule>
+			<CommonModule>А1Э_Доступы</CommonModule>
 			<CommonModule>А1Э_Дубли</CommonModule>
 			<CommonModule>А1Э_Запросы</CommonModule>
 			<CommonModule>А1Э_Иерархии</CommonModule>
