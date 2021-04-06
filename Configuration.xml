@@ -39,7 +39,7 @@
 					<v8:content>А1Э</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>Экспортный модуль коллектива А1</Comment>
+			<Comment>[SemVer];</Comment>
 			<ConfigurationExtensionPurpose>Customization</ConfigurationExtensionPurpose>
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<KeepMappingToExtendedConfigurationObjectsByIDs>false</KeepMappingToExtendedConfigurationObjectsByIDs>
@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>1.9.2 - 2021-03-15</Version>
+			<Version>1.10.0+2021-04-06</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright>
