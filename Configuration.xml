@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>1.11.0+2021-04-28</Version>
+			<Version>2.0.0+2021-05-26</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright>
@@ -67,7 +67,6 @@
 		<ChildObjects>
 			<CommonModule>А1Э_А1СписокМеханизмов</CommonModule>
 			<CommonModule>А1Э_БСП</CommonModule>
-			<CommonModule>А1Э_Веб</CommonModule>
 			<CommonModule>А1Э_Ворд</CommonModule>
 			<CommonModule>А1Э_ГенерацияКода</CommonModule>
 			<CommonModule>А1Э_ГлобальныйКонтекст</CommonModule>
@@ -119,13 +118,11 @@
 			<CommonModule>А1Э_ТабличныеДокументы</CommonModule>
 			<CommonModule>А1Э_Тестирование</CommonModule>
 			<CommonModule>А1Э_УниверсальнаяФорма</CommonModule>
-			<CommonModule>А1Э_УниверсальныйАПИ</CommonModule>
 			<CommonModule>А1Э_Файлы</CommonModule>
 			<CommonModule>А1Э_ФорматированныйДокумент</CommonModule>
 			<CommonModule>А1Э_Формы</CommonModule>
 			<CommonModule>А1Э_Числа</CommonModule>
 			<CommonModule>А1Э_Эксель</CommonModule>
-			<HTTPService>А1Э_УниверсальныйАПИ</HTTPService>
 			<DataProcessor>А1Э_МеханизмыГенерацияКода</DataProcessor>
 			<DataProcessor>А1Э_Формы</DataProcessor>
 		</ChildObjects>
