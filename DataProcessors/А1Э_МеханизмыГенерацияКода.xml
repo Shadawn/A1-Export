@@ -38,10 +38,9 @@
 			<Template>ВыгрузкаХМЛ_Форма</Template>
 			<Template>Конфигурация__МодульОбъектаДокумент</Template>
 			<Template>Конфигурация__МодульОбъектаСправочник</Template>
-			<Template>Конфигурация__МодульФормы</Template>
 			<Template>Расширение__МодульОбъектаДокумент</Template>
 			<Template>Расширение__МодульОбъектаСправочник</Template>
-			<Template>Расширение__МодульФормы</Template>
+			<Template>УниверсальныеОбработчики</Template>
 		</ChildObjects>
 	</DataProcessor>
 </MetaDataObject>
