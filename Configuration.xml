@@ -54,7 +54,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.А1Э_БазовыеПрава</xr:Item>
 			</DefaultRoles>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>3.1.1+2022-02-16</Version>
+			<Version>3.1.2+2022-02-22</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright>
